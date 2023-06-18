@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+    xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+    xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+    xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+    xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+    xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+    xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+    xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+    xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+    xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+    xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+    xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+    <w:body>
+        <w:p w14:paraId="0EB93E28" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="1"/>
+                </w:numPr>
+                <w:ind w:firstLine="562"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_Toc105942001"/>
+            <w:bookmarkStart w:id="1" w:name="_Toc17633"/>
+            <w:bookmarkStart w:id="2" w:name="_Toc17164"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>教学计划安排表</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+            <w:bookmarkEnd w:id="1"/>
+            <w:bookmarkEnd w:id="2"/>
+        </w:p>
+        <w:p w14:paraId="739232E9" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="24BADDAD" wp14:editId="2FD6FB02">
+                        <wp:extent cx="5270500" cy="3088005"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="10795"/>
+                        <wp:docPr id="76" name="图片 76" descr="b0b7b155a634b780f536229a3be4e40"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="76" name="图片 76" descr="b0b7b155a634b780f536229a3be4e40"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId7"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5270500" cy="3088005"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4AB7FF31" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:ind w:firstLineChars="0" w:firstLine="0"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="3" w:name="_Toc21369"/>
+            <w:bookmarkStart w:id="4" w:name="_Toc105942002"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="6568484D" wp14:editId="6CAAA43C">
+                        <wp:extent cx="5120005" cy="4925695"/>
+                        <wp:effectExtent l="0" t="0" r="10795" b="1905"/>
+                        <wp:docPr id="67" name="图片 67" descr="8a2e71165634e99104e7ee6b0ad53ed"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="67" name="图片 67" descr="8a2e71165634e99104e7ee6b0ad53ed"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId8"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5120005" cy="4925695"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0FC5E008" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942"/>
+        <w:p w14:paraId="35305598" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="696B9212" wp14:editId="5ECFBB8A">
+                        <wp:extent cx="5266690" cy="5725795"/>
+                        <wp:effectExtent l="0" t="0" r="3810" b="1905"/>
+                        <wp:docPr id="69" name="图片 69" descr="780819f36ac40f4f00f75259f652078"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="69" name="图片 69" descr="780819f36ac40f4f00f75259f652078"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId9"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5266690" cy="5725795"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1A507506" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="a0"/>
+                <w:ind w:firstLineChars="0" w:firstLine="0"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="625A98C3" wp14:editId="48A365CD">
+                        <wp:extent cx="5267325" cy="2468245"/>
+                        <wp:effectExtent l="0" t="0" r="3175" b="8255"/>
+                        <wp:docPr id="70" name="图片 70" descr="b2dfe313e193be96d57da05a0e9c9b3"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="70" name="图片 70" descr="b2dfe313e193be96d57da05a0e9c9b3"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId10"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5267325" cy="2468245"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1BA621A0" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:ind w:firstLineChars="0" w:firstLine="0"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="4F64C4AD" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:ind w:firstLineChars="0" w:firstLine="0"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="67D9FA9C" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:ind w:firstLineChars="0" w:firstLine="0"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="114300" distR="114300" wp14:anchorId="3F855811" wp14:editId="799061E8">
+                        <wp:extent cx="5267960" cy="7013575"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="9525"/>
+                        <wp:docPr id="2" name="图片 2" descr="1656937353209"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="2" name="图片 2" descr="1656937353209"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId11"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5267960" cy="7013575"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="307023BD" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:ind w:firstLine="562"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="5" w:name="_Toc12274"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>十四、毕业标准</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="3"/>
+            <w:bookmarkEnd w:id="4"/>
+            <w:bookmarkEnd w:id="5"/>
+        </w:p>
+        <w:p w14:paraId="5917E72B" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:ind w:firstLine="562"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="6" w:name="_Toc105942003"/>
+            <w:bookmarkStart w:id="7" w:name="_Toc9751"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（一）学分要求</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="6"/>
+            <w:bookmarkEnd w:id="7"/>
+        </w:p>
+        <w:p w14:paraId="050C50D7" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="480"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>修满专业人才培养方案规定的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>140</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>学分。其中，修满体育学分，体质健康达标；公共限选课修满</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>20</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>学分（美育类课程修满</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>学分）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4485F104" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:ind w:firstLine="562"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="8" w:name="_Toc15867"/>
+            <w:bookmarkStart w:id="9" w:name="_Toc105942004"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（二）学点要求</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="8"/>
+            <w:bookmarkEnd w:id="9"/>
+        </w:p>
+        <w:p w14:paraId="617C0709" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="480"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>综合素质教育成绩不低于</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>60</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>学点。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6E26C347" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:ind w:firstLine="562"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="10" w:name="_Toc105942005"/>
+            <w:bookmarkStart w:id="11" w:name="_Toc26180"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（三）其他要求</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="10"/>
+            <w:bookmarkEnd w:id="11"/>
+        </w:p>
+        <w:p w14:paraId="601E60EB" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="480"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>具有良好的思想品德，热爱祖国，拥护党的基本路线，坚持马列宁主义、毛泽东思想和中国特色社会主义理论体系，把社会主义核心价值观根植于思想和行动之中。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="08790765" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="480"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>具有艰苦创业、爱岗敬业的职业素养，能够守法自律，具有正确的世界观、人生观、价值观，具有健全的心理和健康的体魄；具有一定的德、智、体、美、</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>劳</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等基本素质。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="261D5003" w14:textId="77777777" w:rsidR="004D1942" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="480"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>普通话达到二级乙等水平，部分专业如有更高要求，需在人才培养方案中做出具体规定。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="68E1A731" w14:textId="4D933DE8" w:rsidR="00D02DF1" w:rsidRDefault="004D1942" w:rsidP="004D1942">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>具有较强的实际工作能力和职业素养，能适应本专业相关岗位的工作，至少获得一个与本专业相关的职业资格证书或职业技能证书、校级（不含校级）以上职业技能竞赛证书。</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00D02DF1">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
